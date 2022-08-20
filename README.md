@@ -1,6 +1,6 @@
 # This Website Is Generated From a Github Repository
 
-A Github repository can store arbitrary files. Usually, they are used for storing code. This one, however, stores a PDF that can be printed, folded, laminated, and stapled into a new copy of Bespokonomics.
+A Github repository can store arbitrary files. Usually, they are used for storing code. This one, however, [stores a PDF](https://github.com/bespokonomics/bespokonomics.github.io/tree/main/OG) that can be printed, folded, laminated, and stapled into a new copy of Bespokonomics.
 
 If you want to put your own bespoke spin on a printing of Bespokonomics, feel free! You can even create a pull request to upload your creation here, so other people can use your version.
 
